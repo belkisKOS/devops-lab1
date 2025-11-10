@@ -1,2 +1,4 @@
-# DevOps Lab 1
-My first Git project on macOS.
+
+## New Feature
+
+This section was added in the feature-update branch.
